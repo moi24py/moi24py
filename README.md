@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moi24py
+- 👋 Hi, I’m Moira
 - 👀 I’m interested in Python, C and software development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on small Python projects
