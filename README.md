@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning embedded programming
 - 💞️ C, C++, Python and Linux OS
 - 📫 How to reach me moi24py@gmail.com
-- ⚡ Fun fact: I love coding surrounded by nature, under the starry sky
+- 🌃 I love coding surrounded by nature, under the starry sky
 
 <!---
 moi24py/moi24py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
