@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moira
 - 👀 I’m interested in software development and Linux OS
 - 🌱 I’m currently learning embedded programming
-- 💞️ C, C++, Python and Linux OS
+- 💞️ C, C++, Python, POSIX shell, and Linux OS
 - 📫 How to reach me moi24py@gmail.com
 - 🏞️ I love coding surrounded by nature, under the starry sky :na
 
