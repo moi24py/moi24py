@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moira
 - 👀 I’m interested in software development and Linux OS
-- 💞️ C, C++, Python, POSIX shell, and Linux OS
+- 💞️ C | C++ | Python | shell | GNU/Linux
 - 📫 You can reach me at moi24py@gmail.com
 
 <!---
